@@ -34,7 +34,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/realme/spaced''
+        default: 'device/realme/spaced'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
